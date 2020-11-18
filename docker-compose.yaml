@@ -1,0 +1,7 @@
+version: "3.8"
+services: 
+
+  my_portfolio:
+    build: 
+    ports: 
+      - 80:80 
